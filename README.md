@@ -9,6 +9,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taehyunkim3&" alt="taehyunkim3" /></p>
 
 ![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyunkim3&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taehyunkim3&layout=compact&theme=tokyonight)
 [![trophy](https://github-profile-trophy.vercel.app/?username=taehyunkim3&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **taehyunkim3/taehyunkim3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
